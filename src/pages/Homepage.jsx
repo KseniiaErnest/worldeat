@@ -8,14 +8,12 @@ export default function Homepage() {
     <Nav />
       <section>
         <h1>
-          You travel the world.
+        Travel the globe, savoring delicious dishes along the way.
           <br />
-          WorldWise keeps track of your adventures.
+          Keep a record of your culinary adventures with WorldEat.
         </h1>
         <h2>
-          A world map that tracks your footsteps into every city you can think
-          of. Never forget your wonderful experiences, and show your friends how
-          you have wandered the world.
+        Our interactive map traces your every step across cities, capturing the diverse flavors each has to offer. Cherish your delightful experiences and share with friends the story of your global wanderlust.
         </h2>
         <Link to='/app' className="cta">Start tracking now</Link>
       </section>
